@@ -11,7 +11,7 @@ body {
 h1 {
   background-color: #043ec6;
   color: rgb(255, 247, 0);
-  font-size: 70px;
+  font-size: 45px;
   font-family: 'Bungee Shade', cursive;
   text-align: center;
   margin: auto;
@@ -37,7 +37,7 @@ h1 {
   box-shadow: 0px 8px 20px rgba(0,0,0,.3);
   display: flex;
   justify-content: space-around;
-  height: 60px;
+  height: 50px;
   margin-top: 0px;
   margin-bottom: 25px;
 }
@@ -105,7 +105,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   margin: auto;
-  max-width: 1100px;
+  max-width: 800px;
   justify-content: space-around;
 }
 
@@ -127,9 +127,9 @@ h1 {
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
-  width: 200px;
-  height: 180px;
-  margin: 25px;
+  width: 180px;
+  height: 170px;
+  margin: 10px;
   perspective: 1000px; 
 }
 
@@ -199,5 +199,5 @@ h1 {
 
 /* Set image width */
 .image {
-  width: 250px;
+  width: 240px;
 }

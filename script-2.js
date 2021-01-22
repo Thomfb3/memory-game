@@ -19,7 +19,7 @@ if (localStorage.highScore === undefined) {
 
 //How many images will be in there be to match in the game
 //How many matches determine a WIN
-const numberOfMatches = 8;
+const numberOfMatches = 6;
 
 // GIFS Array requires a naming convention on images 'img-' followed by incrementor (example: img-1.gif);
 const GIFS = [];
